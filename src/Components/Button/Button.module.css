@@ -1,0 +1,27 @@
+.Delete {
+  background-color: #ee6363;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 10px;
+}
+
+.Delete:hover {
+  background-color: #ee5252;
+}
+
+.Delete:active {
+  background-color: #ec7777;
+}
+.Done {
+  background-color: #90ee90;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 10px;
+}
+.Done:hover {
+  background-color: #60ee60;
+}
+
+.Done:active {
+  background-color: #a9e9a9;
+}

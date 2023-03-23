@@ -1,0 +1,16 @@
+.FormContainer {
+  display: flex;
+  flex-direction: column;
+}
+.TextInput {
+  padding: 10px;
+  border: none;
+  border-radius: 10px;
+  margin-bottom: 10px;
+}
+.ButtonInput {
+  background-color: lightgreen;
+  padding: 10px;
+  border: none;
+  border-radius: 10px;
+}

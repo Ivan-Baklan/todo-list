@@ -1,0 +1,18 @@
+.ToDoItem {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 25px;
+  background-color: #f6f5f5;
+  border-radius: 10px;
+  padding: 10px;
+}
+
+.Done {
+  background-color: #a3eaa3;
+}
+
+.ButtonContainer {
+  display: flex;
+  gap: 10px;
+}
