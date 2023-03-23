@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Ivan-Baklan/todo-list/static/css/main.54c84fa5.css",
-    "main.js": "/Ivan-Baklan/todo-list/static/js/main.8fbfb357.js",
+    "main.js": "/Ivan-Baklan/todo-list/static/js/main.11bea713.js",
     "index.html": "/Ivan-Baklan/todo-list/index.html",
     "main.54c84fa5.css.map": "/Ivan-Baklan/todo-list/static/css/main.54c84fa5.css.map",
-    "main.8fbfb357.js.map": "/Ivan-Baklan/todo-list/static/js/main.8fbfb357.js.map"
+    "main.11bea713.js.map": "/Ivan-Baklan/todo-list/static/js/main.11bea713.js.map"
   },
   "entrypoints": [
     "static/css/main.54c84fa5.css",
-    "static/js/main.8fbfb357.js"
+    "static/js/main.11bea713.js"
   ]
 }
