@@ -1,3 +1,5 @@
+![image](https://user-images.githubusercontent.com/103636684/227390630-9a1c3865-dcde-4706-9138-335503597fd0.png)
+
 # Todo app
 
 A simple to-do application that cover some functionality like:
